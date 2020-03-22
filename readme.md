@@ -1,5 +1,11 @@
 Milestone-2: SUDOKU
 
+## Team Members:
+
+[Aniket-ap](https://github.com/Aniket-ap)
+
+[Sunitha142](https://github.com/Sunitha142)]
+
 Sudoku is a logic-based, combinatorial number-placement puzzle. The objective is to fill a 9×9 grid with digits so that each column, each row, and each of the nine 3×3 sub-grids that compose the grid (also called "boxes") contains the digits from 1 to 9.
 
 Generally, a puzzle provides a partial solution so that some squares already have numbers. To solve the puzzle, we need to fill in the unsolved squares, as demonstrated in Figure 1.
